@@ -11,12 +11,12 @@
 }
 
 html[data-mode=dark] {
-  --color-primary: #0d042b;
-  --color-primary-2: #0d042b;
+  --color-primary: #041A2B;
+  --color-primary-2: #041A2B;
   --color-primary-text: #fdfcf9;
-  --color-base-bg: #0b0326;
-  --color-base-bg-2: #150c32;
-  --color-base-bg-3: #251654;
+  --color-base-bg: #031226;
+  --color-base-bg-2: #0C1732;
+  --color-base-bg-3: #162D54;
   --color-base-text: #f5f5ec;
   --color-base-text-2: #929eaf;
   --color-logo-text: #F4F4F5;
